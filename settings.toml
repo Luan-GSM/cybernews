@@ -1,0 +1,23 @@
+[default]
+webhook_url = "WEBHOOK URL"
+server_id = SERVER ID
+channel_id = "WEBHOOK CHANNEL ID"
+status = "DEVELOPMENT"
+name = "chappie ta na area..."
+
+samirnews = "https://www.samirnews.com/feeds/posts/default"
+
+
+cogs = [
+  "cogs.is_member",
+  # "cogs.is_owner"
+]
+
+
+[development]
+prefix = "d!"
+token = "TOKEN DEVELOPMENT BOT"
+
+[production]
+prefix = "p!"
+token = "TOKEN PRODUCTION BOT"
