@@ -12,3 +12,8 @@ The News Bot for Discord is a valuable addition to any server seeking to provide
   </p>
 </details>
 
+
+## requirements 
+ - [discord.py](https://github.com/Rapptz/discord.py)
+ - [requests](https://github.com/psf/requests)
+ - [xmltodict](https://github.com/martinblech/xmltodict)
