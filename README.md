@@ -50,7 +50,7 @@ The News Bot for Discord is a valuable addition to any server seeking to provide
   cp settings.toml.example settings.toml
   ```
 
-modify the contents of .env as specified.
+modify the contents of settings.toml as specified.
 
 
 ## usage 
