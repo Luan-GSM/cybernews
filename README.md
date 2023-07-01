@@ -47,7 +47,7 @@ The News Bot for Discord is a valuable addition to any server seeking to provide
 4. configure the environment:
 
   ```bash
-  cp .env.example .env
+  cp settings.toml.example settings.toml
   ```
 
 modify the contents of .env as specified.
